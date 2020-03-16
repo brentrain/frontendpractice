@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #ffebd9;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+}
+
+h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+
+span {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.brent {
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+}
+.middle-container {
+
+}
+.bottom-container {
+
+}
