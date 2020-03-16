@@ -1,0 +1,14 @@
+body {
+  background-color: beige;
+}
+hr {
+  border-style: dotted none none;
+  height: 0px;
+  width: 30%;
+  border-width: 5px;
+  color: coral;
+}
+
+h1, h3 {
+  color: #66bfbf;
+}

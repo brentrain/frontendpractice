@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+div {
+  background-color: #63b7af;
+}
+
+img {
+  position: relative;
+  top: 15px;
+  left: 30px;
+}
+span {
+  text-decoration: underline;
+}
+.middle-container {
+  height: 200px;
+  width: 200px;
+  background-color: coral;
+}
+.bottom-container {
+  height: 200px;
+  width: 200px;
+  background-color: lilac;
+}
